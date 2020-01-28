@@ -2,12 +2,12 @@
 ### These are projects created for the Data Structures course at UNF. This course uses Java
 
 ## Project 1 - Array Searches and Sorts
-     - This project takes a file named Countries.csv and reads the contents into an array of
-       Country objects. It then prompts a console UI asking the user to either Print a Countries
-       report, sort by Name using Bubble Sort, sort by Happiness using Selection Sort, sort by
-       GDP per capita using Insertion Sort, find and print a given Country, or quit out of the program.
+       This project takes a file named Countries.csv and reads the contents into an array of
+          Country objects. It then prompts a console UI asking the user to either Print a Countries
+          report, sort by Name using Bubble Sort, sort by Happiness using Selection Sort, sort by
+          GDP per capita using Insertion Sort, find and print a given Country, or quit out of the program.
        
-     - I got a **91%** with the issues being:
+       I got a **91%** with the issues being:
             1. The directions required Insertion sort to sort by GDP per capita and I mistakenly
                sorted by GDP
             2. The program crashes upon character inputs during the UI process
