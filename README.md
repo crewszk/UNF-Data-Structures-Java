@@ -1,7 +1,7 @@
 # UNF-Data-Structures-Java
 ### These are projects created for the Data Structures course at UNF. This course uses Java
 
-## Project 1 - Array Searches and Sorts
+## Project 1 Array Searches and Sorts
        This project takes a file named Countries.csv and reads the contents into an array of
           Country objects. It then prompts a console UI asking the user to either Print a Countries
           report, sort by Name using Bubble Sort, sort by Happiness using Selection Sort, sort by
@@ -13,7 +13,7 @@
             2. The program crashes upon character inputs during the UI process
             3. I didn't provide comments throughout the program
     
-## Project 2 - Stacks and Priority Queues
+## Project 2 Stacks and Priority Queues
     - This project follows up on Project 1. It will take a file named Countries2.csv and read
       the contents into 5 priority queue's, each of which are arrays of Country objects, based
       on the countries GDP per capita (poor, fair, good, very good, and excellent). After
@@ -31,7 +31,7 @@
           3. In some cases my remove() method in the Priority Class fails to remove the highest priority
              country from the priority queue and is most likely linked to issue #2.
     
-## Project 3 - Linked Lists
+## Project 3 Linked Lists
     - This project follows Project 1 and 2. It will take a file named Countries3.csv and read the
       contents into a Stack which is implemented as a Singly Linked List
     
