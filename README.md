@@ -7,7 +7,7 @@
        report, sort by Name using Bubble Sort, sort by Happiness using Selection Sort, sort by
        GDP per capita using Insertion Sort, find and print a given Country, or quit out of the program.
        
-     - I got a *91%* with the issues being:
+     - I got a **91%** with the issues being:
             1. The directions required Insertion sort to sort by GDP per capita and I mistakenly
                sorted by GDP
             2. The program crashes upon character inputs during the UI process
@@ -21,7 +21,7 @@
       a stack and then print the stack to show that the priority queues worked properly by removing
       the prioritized elements.
       
-    - I got a *87%* with the issues being:
+    - I got a **87%** with the issues being:
           1. Due to a possible compilation error, the grader stated that the program crashed while reading
              scientific notation. Even though this worked on my end, it was due to the use of
              Long.parseLong(string) instead of Double.valueOf(string).longValue()
